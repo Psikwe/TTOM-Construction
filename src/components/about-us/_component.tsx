@@ -1,8 +1,6 @@
 import PageHeader from "../page-headers/_component";
 
-type Props = {};
-
-const AboutUs = (props: Props) => {
+const AboutUs = () => {
   return (
     <>
       <section id="about-us" className="mobile:mx-8 mx-80">

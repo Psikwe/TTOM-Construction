@@ -4,9 +4,7 @@ import AboutUs from "../../components/about-us/_component";
 import Projects from "../../components/projects/_component";
 import Footer from "../../components/footer/_component";
 
-type Props = {};
-
-const LandingPage = (props: Props) => {
+const LandingPage = () => {
   return (
     <>
       <Navbar />

@@ -4,9 +4,7 @@ import { iconColor, navItems } from "../../core";
 import menuIcon from "../../assets/icons/menu.svg";
 import { Offcanvas, Ripple, Dropdown, initTWE } from "tw-elements";
 
-type Props = {};
-
-const Navbar = (props: Props) => {
+const Navbar = () => {
   React.useEffect(() => {
     initTWE({ Offcanvas, Ripple, Dropdown });
   }, []);

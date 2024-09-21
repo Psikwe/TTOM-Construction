@@ -1,8 +1,7 @@
 import logo from "../../assets/images/ttom.png";
 import { addressItems, iconColor, socialLinks } from "../../core";
-type Props = {};
 
-const Footer = (props: Props) => {
+const Footer = () => {
   const date = new Date();
   return (
     <>

@@ -1,8 +1,6 @@
 import banner from "../../assets/images/bg.jpeg";
 
-type Props = {};
-
-const Banner = (props: Props) => {
+const Banner = () => {
   return (
     <section>
       <div className="relative">
