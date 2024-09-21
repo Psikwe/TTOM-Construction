@@ -37,7 +37,7 @@ const Footer = () => {
             ))}
           </div>
 
-          <p>&copy; {date.getFullYear()} TTOM Contruction</p>
+          <p>&copy; {date.getFullYear()} TTOM Construction</p>
         </div>
       </footer>
     </>
