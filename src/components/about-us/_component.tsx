@@ -26,10 +26,10 @@ const AboutUs = () => {
           well-versed in managing on-site and off-site work, coordinating with
           subcontractors, and ensuring regulatory compliance. Our commitment to
           quality extends through every stage of the project, from initial
-          design to final handover. At TTOM Construction, we are dedicated to
-          building a sustainable future through innovative solutions and
-          reliable partnerships, making us the partner of choice for
-          construction projects of all sizes.
+          design to final handover. At TTOM Construction Services, we are
+          dedicated to building a sustainable future through innovative
+          solutions and reliable partnerships, making us the partner of choice
+          for construction projects of all sizes.
         </p>
       </section>
     </>

@@ -11,7 +11,7 @@ const Banner = () => {
           />
         </div>
         <div className="absolute bottom-0 text-white mobile:mx-8 mx-80">
-          <h1 className="text-4xl">Welcome to TTOM Construction</h1>
+          <h1 className="text-4xl">Welcome to TTOM Construction Services</h1>
           <p className="my-8">You dream, we build</p>
         </div>
       </div>
